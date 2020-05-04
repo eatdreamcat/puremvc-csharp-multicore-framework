@@ -1,0 +1,9 @@
+F:\Work\puremvc-csharp-multicore-framework\PureMVC\bin\Debug\netcoreapp2.1\PureMVC.deps.json
+F:\Work\puremvc-csharp-multicore-framework\PureMVC\bin\Debug\netcoreapp2.1\PureMVC.dll
+F:\Work\puremvc-csharp-multicore-framework\PureMVC\bin\Debug\netcoreapp2.1\PureMVC.pdb
+F:\Work\puremvc-csharp-multicore-framework\PureMVC\obj\Debug\netcoreapp2.1\PureMVC.csprojAssemblyReference.cache
+F:\Work\puremvc-csharp-multicore-framework\PureMVC\obj\Debug\netcoreapp2.1\PureMVC.csproj.CoreCompileInputs.cache
+F:\Work\puremvc-csharp-multicore-framework\PureMVC\obj\Debug\netcoreapp2.1\PureMVC.AssemblyInfoInputs.cache
+F:\Work\puremvc-csharp-multicore-framework\PureMVC\obj\Debug\netcoreapp2.1\PureMVC.AssemblyInfo.cs
+F:\Work\puremvc-csharp-multicore-framework\PureMVC\obj\Debug\netcoreapp2.1\PureMVC.dll
+F:\Work\puremvc-csharp-multicore-framework\PureMVC\obj\Debug\netcoreapp2.1\PureMVC.pdb

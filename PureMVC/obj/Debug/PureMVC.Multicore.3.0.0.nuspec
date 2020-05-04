@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PureMVC.Multicore</id>
+    <version>3.0.0</version>
+    <authors>Saad Shams</authors>
+    <owners>Saad Shams</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/puremvc/puremvc-csharp-multicore-framework/blob/master/LICENSE</licenseUrl>
+    <projectUrl>http://forums.puremvc.org/index.php?board=20.0</projectUrl>
+    <iconUrl>http://puremvc.org/images/puremvc-logo.png</iconUrl>
+    <description>PureMVC is a lightweight framework for creating applications based upon the classic Model-View-Controller design meta-pattern.</description>
+    <copyright>Copyright © 2017 Saad Shams, Futurescale, Inc.</copyright>
+    <tags>PureMVC Multicore MVC</tags>
+    <repository type="Git" url="https://github.com/PureMVC/puremvc-csharp-multicore-framework" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\Work\puremvc-csharp-multicore-framework\PureMVC\bin\Debug\netcoreapp2.1\PureMVC.dll" target="lib\netcoreapp2.1\PureMVC.dll" />
+  </files>
+</package>

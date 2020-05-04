@@ -1,0 +1,17 @@
+F:\Work\puremvc-csharp-multicore-framework\PureMVCTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Work\puremvc-csharp-multicore-framework\PureMVCTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Work\puremvc-csharp-multicore-framework\PureMVCTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Work\puremvc-csharp-multicore-framework\PureMVCTests\bin\Debug\netcoreapp2.1\PureMVCTests.deps.json
+F:\Work\puremvc-csharp-multicore-framework\PureMVCTests\bin\Debug\netcoreapp2.1\PureMVCTests.runtimeconfig.json
+F:\Work\puremvc-csharp-multicore-framework\PureMVCTests\bin\Debug\netcoreapp2.1\PureMVCTests.runtimeconfig.dev.json
+F:\Work\puremvc-csharp-multicore-framework\PureMVCTests\bin\Debug\netcoreapp2.1\PureMVCTests.dll
+F:\Work\puremvc-csharp-multicore-framework\PureMVCTests\bin\Debug\netcoreapp2.1\PureMVCTests.pdb
+F:\Work\puremvc-csharp-multicore-framework\PureMVCTests\bin\Debug\netcoreapp2.1\PureMVC.dll
+F:\Work\puremvc-csharp-multicore-framework\PureMVCTests\bin\Debug\netcoreapp2.1\PureMVC.pdb
+F:\Work\puremvc-csharp-multicore-framework\PureMVCTests\obj\Debug\netcoreapp2.1\PureMVCTests.csprojAssemblyReference.cache
+F:\Work\puremvc-csharp-multicore-framework\PureMVCTests\obj\Debug\netcoreapp2.1\PureMVCTests.csproj.CoreCompileInputs.cache
+F:\Work\puremvc-csharp-multicore-framework\PureMVCTests\obj\Debug\netcoreapp2.1\PureMVCTests.AssemblyInfoInputs.cache
+F:\Work\puremvc-csharp-multicore-framework\PureMVCTests\obj\Debug\netcoreapp2.1\PureMVCTests.AssemblyInfo.cs
+F:\Work\puremvc-csharp-multicore-framework\PureMVCTests\obj\Debug\netcoreapp2.1\PureMVCTests.csproj.CopyComplete
+F:\Work\puremvc-csharp-multicore-framework\PureMVCTests\obj\Debug\netcoreapp2.1\PureMVCTests.dll
+F:\Work\puremvc-csharp-multicore-framework\PureMVCTests\obj\Debug\netcoreapp2.1\PureMVCTests.pdb
